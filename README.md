@@ -10,8 +10,6 @@ Bem-vindo ao **Sistema Bancário com Python**, um projeto desenvolvido para simu
   - [Depósito](#depósito)
   - [Saque](#saque)
   - [Extrato](#extrato)
-- [Como Usar](#como-usar)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Autor](#autor)
 
 ## Descrição
